@@ -13,6 +13,9 @@
         "web.assets_frontend": [
             "website_event_require_login/static/src/js/registration_login_required.js",
         ],
+        "web.assets_tests": [
+            "/website_event_require_login/static/tests/tours/*",
+        ],
     },
     "installable": True,
     "license": "AGPL-3",
